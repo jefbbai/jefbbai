@@ -8,7 +8,7 @@
 
 <p align="center">
   <b>Senior Software Engineer</b> | <b>Full Stack Web & Mobile</b> | <b>AI Integration & Automation</b><br/>
-  🇺🇸 U.S. Citizen • Athens, GA • <a href="mailto:jefbbai@gmail.com">jefbbai@gmail.com</a> • (805) 268-7837<br/>
+  🇺🇸 U.S. Citizen • Athens, GA • <a href="mailto:jeffbai924@gmail.com">jeffbai924@gmail.com</a> • (805) 268-7837<br/>
   <a href="https://linkedin.com/in/jefbb">LinkedIn</a> •
   <a href="https://github.com/jefbbai">GitHub</a> •
   <a href="https://jonarnic.github.io">Website</a>
