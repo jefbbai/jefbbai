@@ -11,7 +11,7 @@
   🇺🇸 U.S. Citizen • Athens, GA • <a href="mailto:jeffbai924@gmail.com">jeffbai924@gmail.com</a> • (805) 268-7837<br/>
   <a href="https://linkedin.com/in/jefbb">LinkedIn</a> •
   <a href="https://github.com/jefbbai">GitHub</a> •
-  <a href="https://jonarnic.github.io">Website</a>
+  <a href="https://jefbbai.github.io">Website</a>
 </p>
 
 ---
