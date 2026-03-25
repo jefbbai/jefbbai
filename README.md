@@ -68,7 +68,7 @@ Senior Software Engineer with 9 years of experience designing and delivering sca
   </tr>
 </table>
 
-> Note: skillicons.dev doesn’t have an official `n8n` icon; I used a placeholder above. Replace that `<img ...>` with any icon/image you prefer.
+>
 
 ---
 
