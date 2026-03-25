@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h2 align="center">Jeffry Bai</h2>
+<h2 align="center">Jeffrey Bain</h2>
 
 <p align="center">
   <b>Senior Software Engineer</b> | <b>Full Stack Web & Mobile</b> | <b>AI Integration & Automation</b><br/>
